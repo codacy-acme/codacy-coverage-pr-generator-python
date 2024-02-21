@@ -1,0 +1,5 @@
+inquirer==3.2.4
+PyGithub==2.2.0
+python-dotenv==1.0.1
+Requests==2.31.0
+ruamel.base==1.0.0
